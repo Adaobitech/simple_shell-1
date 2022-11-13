@@ -1,4 +1,4 @@
-# "shell.h"
+#inc "shell.h"
 
 /**
  **_strncpy - copies a string
