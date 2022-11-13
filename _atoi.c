@@ -1,4 +1,4 @@
-#inc "shell.h"
+# "shell.h"
 
 /**
  * interactive - returns true if shell is interactive mode

@@ -1,4 +1,4 @@
-ginclude "shell.h"
+g "shell.h"
 
 /**
  * main - entry point
